@@ -23,6 +23,6 @@
 
 11) [Reversing A String](https://github.com/MBadriNarayanan/MASM/blob/master/StringRev.asm)
 
-12) [Displaying System Time](https://github.com/MBadriNarayanan/MASM/blob/master/SysTime.asm)
+12) [Displaying System Time](https://github.com/MBadriNarayanan/MASM/blob/master/SysTime.ASM)
 
-13) [Displaying RAM Size](https://github.com/MBadriNarayanan/MASM/blob/master/RamSize.asm)
+13) [Displaying RAM Size](https://github.com/MBadriNarayanan/MASM/blob/master/RamSize.ASM)
